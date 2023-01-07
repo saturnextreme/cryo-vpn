@@ -164,6 +164,7 @@ textarea {
   background-color: rgba(162, 179, 240, 1);
   color: white;
   box-shadow: 10px 10px 5px black;
+ padding: 1%;
 }
 form {
   display: flex;
